@@ -100,17 +100,17 @@
 <a href="https://www.linkedin.com/in/md-nurun-nabi-6260a722b/" target="_blank">
   <img align="center" alt="Md Nurun Nabi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/iftekhartahsin" target="_blank">
+<a href="https://twitter.com/" target="_blank">
   <img align="center" alt="Md Nurun Nabi | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/shah0s/" target="_blank">
+<a href="https://www.instagram.com/mdnurun.nabi.501/" target="_blank">
   <img align="center" alt=" | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:tahsiniftekhar@gmail.com" >
-  <img align="center" alt="Tahsin Iftekhar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:nurunnabiislam12@gmail.com" >
+  <img align="center" alt="nurunnabi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/shah0s7" target="_blank">
-    <img align="center" alt="Tahsin Iftekhar | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+<a href="https://www.facebook.com/mdnurun.nabi.501" target="_blank">
+    <img align="center" alt="md nurun nabi | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <a href="https://tahsiniftekhar.com" target="_blank">
 <img align="center" width="30px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-coding-online-learning-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
